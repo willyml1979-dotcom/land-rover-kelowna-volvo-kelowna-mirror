@@ -1,265 +1,10 @@
 {
   "dealership": "Land Rover Kelowna Volvo Kelowna",
-  "generated_at": "2026-10-26T04:58:19",
-  "vehicle_count": 40,
+  "generated_at": "2026-11-17T00:05:40",
+  "vehicle_count": 31,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "New 2026 Defender 110 P300 Sin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/600f8d23c9a8.html",
-      "condition": "new",
-      "price": 89815.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Defender 110 P300 Sin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/b3d692bc1734.html",
-      "condition": "new",
-      "price": 89795.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Defender 110 P400 X DYNAMIC SEin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/7236f9f486df.html",
-      "condition": "new",
-      "price": 104070.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Defender 110 P400 X Dynamic SEin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/1f6925761bd1.html",
-      "condition": "new",
-      "price": 108015.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Defender 110 P400 X DYNAMIC SEin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/b64602fd75d4.html",
-      "condition": "new",
-      "price": 103465.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Defender 110 P400 X Dynamic SEin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/2bcf7125b1e9.html",
-      "condition": "new",
-      "price": 106510.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Defender 110 P400 Trophy Edition Matte Deep Sandglow Yellowin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/3fc835bd9211.html",
-      "condition": "new",
-      "price": 116120.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Defender 110 P400 X DYNAMIC SEin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/4d0089252645.html",
-      "condition": "new",
-      "price": 104765.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Range Rover SE P460e SWBin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/e5b558fbb72c.html",
-      "condition": "new",
-      "price": 162680.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Range Rover SE P460e SWBin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/2d68ee62a6fc.html",
-      "condition": "new",
-      "price": 170855.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Range Rover Evoque P250 Hoxton Editionin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/976deb142a39.html",
-      "condition": "new",
-      "price": 68255.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Range Rover Sport P360 Sin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/05bb38a80dee.html",
-      "condition": "new",
-      "price": 108205.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Range Rover Sport P530 DYNAMIC SEin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/c3187fd5d23e.html",
-      "condition": "new",
-      "price": 145655.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Range Rover Sport P360 Sin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/3f2c1104e035.html",
-      "condition": "new",
-      "price": 111055.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Range Rover Sport P360 Sin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/74926a837120.html",
-      "condition": "new",
-      "price": 104995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Range Rover Sport P400 DYNAMIC SEin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/bfebb843499f.html",
-      "condition": "new",
-      "price": 125150.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Range Rover Sport P400 DYNAMIC SEin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/51291f68158f.html",
-      "condition": "new",
-      "price": 121950.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Range Rover Sport P360 Sin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/318b27e3c324.html",
-      "condition": "new",
-      "price": 107405.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Range Rover Sport P400 DYNAMIC HSEin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/786b0be4cb72.html",
-      "condition": "new",
-      "price": 130400.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Range Rover Sport P460e Dynamic SEin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/e0fc9012300b.html",
-      "condition": "new",
-      "price": 142750.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Range Rover Sport P400 DYNAMIC HSEin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/0c193d2d32e7.html",
-      "condition": "new",
-      "price": 134800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Range Rover Velar P250 DYNAMIC SEin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/3bea08cc2689.html",
-      "condition": "new",
-      "price": 79230.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Range Rover Velar P250 Belgravia Editionin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/544c486fbaeb.html",
-      "condition": "new",
-      "price": 80555.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Range Rover Velar P340 Belgravia Editionin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/2438fc2c5c08.html",
-      "condition": "new",
-      "price": 89205.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Range Rover Velar P250 Belgravia Editionin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/d1aecbea6676.html",
-      "condition": "new",
-      "price": 81505.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Range Rover Velar P250 Belgravia Editionin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/40ec2b545b35.html",
-      "condition": "new",
-      "price": 79955.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Range Rover SE P400 SWBin Kelowna",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/722581845142.html",
-      "condition": "new",
-      "price": 153665.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2010 Ferrari California T ",
-      "vin": "ZFF65LJA2A0168472",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/used/69a876147657.html",
-      "year": 2010,
-      "make": "Ferrari",
-      "model": "California T",
-      "condition": "used",
-      "price": 110995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 BMW 2 Series ",
-      "vin": "WBA2N3C54KVE45902",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/used/025d12bdf9df.html",
-      "year": 2019,
-      "make": "BMW",
-      "model": "2 Series",
-      "condition": "used",
-      "price": 34995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Jeep Grand Cherokee ",
-      "vin": "1C4RJFDJ2MC600209",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/used/f886eb7fddf3.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 59995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Volkswagen Tiguan ",
-      "vin": "3VV2B7AX9MM052996",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/used/0722f0ddcd82.html",
-      "year": 2021,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 23995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Volvo XC90 ",
-      "vin": "YV4A22PL7M1751104",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/used/9f29bb9dd968.html",
-      "year": 2021,
-      "make": "Volvo",
-      "model": "XC90",
-      "condition": "used",
-      "price": 33995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Honda Civic ",
-      "vin": "2HGFE2F59NH119857",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/used/c4ab7245b454.html",
-      "year": 2022,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 26995.0,
-      "price_currency": "CAD"
-    },
     {
       "name": "2022 Volvo XC90 ",
       "vin": "YV4A22PK8N1843363",
@@ -283,17 +28,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Volvo XC60 T8 eAWD ",
-      "vin": "LYVH60DW4PB269759",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/used/8b15718192da.html",
-      "year": 2023,
-      "make": "Volvo",
-      "model": "XC60",
-      "condition": "used",
-      "price": 51995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Mazda CX-90 MHEV ",
       "vin": "JM3KKDHC3S1219600",
       "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/used/4cb79d7e3e19.html",
@@ -305,14 +39,263 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Volvo XC40 ",
-      "vin": "YV4L12UJXS2607231",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/used/e08edec4d36f.html",
-      "year": 2025,
-      "make": "Volvo",
-      "model": "XC40",
-      "condition": "used",
-      "price": 38995.0,
+      "name": "New 2026 Defender 110 P300 Sin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/600f8d23c9a8.html",
+      "year": 2026,
+      "make": "Defender",
+      "model": "110 P300 Sin Kelowna",
+      "condition": "new",
+      "price": 89815.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Defender 110 P300 Sin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/b3d692bc1734.html",
+      "year": 2026,
+      "make": "Defender",
+      "model": "110 P300 Sin Kelowna",
+      "condition": "new",
+      "price": 89795.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Defender 110 P400 X DYNAMIC SEin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/7236f9f486df.html",
+      "year": 2026,
+      "make": "Defender",
+      "model": "110 P400 X DYNAMIC SEin Kelowna",
+      "condition": "new",
+      "price": 104070.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Defender 110 P400 X Dynamic SEin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/1f6925761bd1.html",
+      "year": 2026,
+      "make": "Defender",
+      "model": "110 P400 X Dynamic SEin Kelowna",
+      "condition": "new",
+      "price": 108015.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Defender 110 P400 X DYNAMIC SEin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/b64602fd75d4.html",
+      "year": 2026,
+      "make": "Defender",
+      "model": "110 P400 X DYNAMIC SEin Kelowna",
+      "condition": "new",
+      "price": 103465.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Defender 110 P400 X Dynamic SEin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/2bcf7125b1e9.html",
+      "year": 2026,
+      "make": "Defender",
+      "model": "110 P400 X Dynamic SEin Kelowna",
+      "condition": "new",
+      "price": 106510.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Defender 110 P400 Trophy Edition Matte Deep Sandglow Yellowin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/3fc835bd9211.html",
+      "year": 2026,
+      "make": "Defender",
+      "model": "110 P400 Trophy Edition Matte Deep Sandglow Yellowin Kelowna",
+      "condition": "new",
+      "price": 116120.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Defender 110 P400 X DYNAMIC SEin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/4d0089252645.html",
+      "year": 2026,
+      "make": "Defender",
+      "model": "110 P400 X DYNAMIC SEin Kelowna",
+      "condition": "new",
+      "price": 104765.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Range Rover SE P460e SWBin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/e5b558fbb72c.html",
+      "year": 2026,
+      "make": "Range",
+      "model": "Rover SE P460e SWBin Kelowna",
+      "condition": "new",
+      "price": 162680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Range Rover SE P460e SWBin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/2d68ee62a6fc.html",
+      "year": 2026,
+      "make": "Range",
+      "model": "Rover SE P460e SWBin Kelowna",
+      "condition": "new",
+      "price": 170855.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Range Rover Evoque P250 Hoxton Editionin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/976deb142a39.html",
+      "year": 2026,
+      "make": "Range",
+      "model": "Rover Evoque P250 Hoxton Editionin Kelowna",
+      "condition": "new",
+      "price": 68255.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Range Rover Sport P360 Sin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/05bb38a80dee.html",
+      "year": 2026,
+      "make": "Range",
+      "model": "Rover Sport P360 Sin Kelowna",
+      "condition": "new",
+      "price": 108205.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Range Rover Sport P530 DYNAMIC SEin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/c3187fd5d23e.html",
+      "year": 2026,
+      "make": "Range",
+      "model": "Rover Sport P530 DYNAMIC SEin Kelowna",
+      "condition": "new",
+      "price": 145655.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Range Rover Sport P360 Sin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/3f2c1104e035.html",
+      "year": 2026,
+      "make": "Range",
+      "model": "Rover Sport P360 Sin Kelowna",
+      "condition": "new",
+      "price": 111055.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Range Rover Sport P360 Sin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/74926a837120.html",
+      "year": 2026,
+      "make": "Range",
+      "model": "Rover Sport P360 Sin Kelowna",
+      "condition": "new",
+      "price": 104995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Range Rover Sport P400 DYNAMIC SEin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/bfebb843499f.html",
+      "year": 2026,
+      "make": "Range",
+      "model": "Rover Sport P400 DYNAMIC SEin Kelowna",
+      "condition": "new",
+      "price": 125150.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Range Rover Sport P400 DYNAMIC SEin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/51291f68158f.html",
+      "year": 2026,
+      "make": "Range",
+      "model": "Rover Sport P400 DYNAMIC SEin Kelowna",
+      "condition": "new",
+      "price": 121950.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Range Rover Sport P360 Sin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/318b27e3c324.html",
+      "year": 2026,
+      "make": "Range",
+      "model": "Rover Sport P360 Sin Kelowna",
+      "condition": "new",
+      "price": 107405.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Range Rover Sport P400 DYNAMIC HSEin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/786b0be4cb72.html",
+      "year": 2026,
+      "make": "Range",
+      "model": "Rover Sport P400 DYNAMIC HSEin Kelowna",
+      "condition": "new",
+      "price": 130400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Range Rover Sport P460e Dynamic SEin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/e0fc9012300b.html",
+      "year": 2026,
+      "make": "Range",
+      "model": "Rover Sport P460e Dynamic SEin Kelowna",
+      "condition": "new",
+      "price": 142750.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Range Rover Sport P400 DYNAMIC HSEin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/0c193d2d32e7.html",
+      "year": 2026,
+      "make": "Range",
+      "model": "Rover Sport P400 DYNAMIC HSEin Kelowna",
+      "condition": "new",
+      "price": 134800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Range Rover Velar P250 DYNAMIC SEin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/3bea08cc2689.html",
+      "year": 2026,
+      "make": "Range",
+      "model": "Rover Velar P250 DYNAMIC SEin Kelowna",
+      "condition": "new",
+      "price": 79230.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Range Rover Velar P250 Belgravia Editionin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/544c486fbaeb.html",
+      "year": 2026,
+      "make": "Range",
+      "model": "Rover Velar P250 Belgravia Editionin Kelowna",
+      "condition": "new",
+      "price": 80555.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Range Rover Velar P340 Belgravia Editionin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/2438fc2c5c08.html",
+      "year": 2026,
+      "make": "Range",
+      "model": "Rover Velar P340 Belgravia Editionin Kelowna",
+      "condition": "new",
+      "price": 89205.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Range Rover Velar P250 Belgravia Editionin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/d1aecbea6676.html",
+      "year": 2026,
+      "make": "Range",
+      "model": "Rover Velar P250 Belgravia Editionin Kelowna",
+      "condition": "new",
+      "price": 81505.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Range Rover Velar P250 Belgravia Editionin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/40ec2b545b35.html",
+      "year": 2026,
+      "make": "Range",
+      "model": "Rover Velar P250 Belgravia Editionin Kelowna",
+      "condition": "new",
+      "price": 79955.0,
       "price_currency": "CAD"
     },
     {
@@ -327,14 +310,13 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volvo XC60 ",
-      "vin": "YV4M12RD6T1396043",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/used/c12de9b65197.html",
-      "year": 2026,
-      "make": "Volvo",
-      "model": "XC60",
-      "condition": "used",
-      "price": 66995.0,
+      "name": "New 2027 Range Rover SE P400 SWBin Kelowna",
+      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/722581845142.html",
+      "year": 2027,
+      "make": "Range",
+      "model": "Rover SE P400 SWBin Kelowna",
+      "condition": "new",
+      "price": 153665.0,
       "price_currency": "CAD"
     }
   ]
