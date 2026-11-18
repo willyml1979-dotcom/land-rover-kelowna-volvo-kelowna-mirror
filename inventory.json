@@ -1,6 +1,6 @@
 {
   "dealership": "Land Rover Kelowna Volvo Kelowna",
-  "generated_at": "2026-11-17T20:53:40",
+  "generated_at": "2026-11-17T21:04:21",
   "vehicle_count": 29,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -172,7 +172,7 @@
       "make": "Range",
       "model": "Rover Sport P360 Sin Kelowna",
       "condition": "new",
-      "price": 107405.0,
+      "price": 112450.0,
       "price_currency": "CAD"
     },
     {
@@ -182,7 +182,7 @@
       "make": "Range",
       "model": "Rover Sport P400 DYNAMIC HSEin Kelowna",
       "condition": "new",
-      "price": 130400.0,
+      "price": 135400.0,
       "price_currency": "CAD"
     },
     {
@@ -232,7 +232,7 @@
       "make": "Range",
       "model": "Rover Velar P250 Belgravia Editionin Kelowna",
       "condition": "new",
-      "price": 81505.0,
+      "price": 82533.0,
       "price_currency": "CAD"
     },
     {
