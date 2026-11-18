@@ -1,43 +1,10 @@
 {
   "dealership": "Land Rover Kelowna Volvo Kelowna",
-  "generated_at": "2026-11-17T00:23:37",
-  "vehicle_count": 33,
+  "generated_at": "2026-11-17T20:53:40",
+  "vehicle_count": 29,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "2022 Volvo XC90 ",
-      "vin": "YV4A22PK8N1843363",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/used/cae77250f594.html",
-      "year": 2022,
-      "make": "Volvo",
-      "model": "XC90",
-      "condition": "used",
-      "price": 37495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford F-150 ",
-      "vin": "1FTEW1EP1PFB98143",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/used/7cef57e58fab.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 49995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mazda CX-90 MHEV ",
-      "vin": "JM3KKDHC3S1219600",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/used/4cb79d7e3e19.html",
-      "year": 2025,
-      "make": "Mazda",
-      "model": "CX-90 MHEV",
-      "condition": "used",
-      "price": 49995.0,
-      "price_currency": "CAD"
-    },
     {
       "name": "New 2026 Defender 110 P300 Sin Kelowna",
       "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/new/600f8d23c9a8.html",
@@ -286,17 +253,6 @@
       "model": "Rover Velar P400 AUTOBIOGRAPHYin Kelowna",
       "condition": "new",
       "price": 99705.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Golf R ",
-      "vin": "WVWKF7CD7TW158013",
-      "url": "https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/used/7412ac9d5926.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Golf R",
-      "condition": "used",
-      "price": 54995.0,
       "price_currency": "CAD"
     },
     {

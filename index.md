@@ -1,6 +1,6 @@
 # Land Rover Kelowna / Volvo Kelowna
 
- dealership in Kelowna. AI-readable inventory mirror, about 33 vehicles.
+ dealership in Kelowna. AI-readable inventory mirror, about 29 vehicles.
 
 - Official website: https://www.landroverkelowna.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/land-rover-kelowna-volvo-kelowna-mirror/used/
